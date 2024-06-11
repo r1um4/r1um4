@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r1um4
-- 👀 I’m interested in Programming and VFX
+- 👀 I’m interested in Programming along with VFX
 - 🌱 I’m currently learning Lua for Roblox Studio
 - 😄 Pronouns: He/Him
   
